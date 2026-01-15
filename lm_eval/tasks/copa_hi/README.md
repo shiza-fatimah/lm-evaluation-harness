@@ -1,4 +1,4 @@
-# Task-name
+# Choice of Plausible Alternatives (COPA)
 
 ## Paper
 
@@ -11,6 +11,7 @@ Choice of Plausible Alternatives (COPA): tests open-domain causal reasoning. Giv
 
 ### Citation
 
+```latex
 @inproceedings{kakwani-etal-2020-indicnlpsuite,
     title = "{I}ndic{NLPS}uite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for {I}ndian Languages",
     author = "Kakwani, Divyanshu  and
@@ -29,8 +30,7 @@ Choice of Plausible Alternatives (COPA): tests open-domain causal reasoning. Giv
     doi = "10.18653/v1/2020.findings-emnlp.445",
     pages = "4948--4961",
 }
-
-
+```
 
 #### Tasks
 
