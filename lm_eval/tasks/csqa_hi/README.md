@@ -1,17 +1,17 @@
-# Task-name
+# Cloze-style Multiple Choice QA
 
 ## Paper
 
 Title: IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages
 
-Abstract: [link to paper PDF](https://aclanthology.org/2020.findings-emnlp.445.pdf)
+Abstract: https://aclanthology.org/2020.findings-emnlp.445.pdf
 
 Cloze-style Multiple Choice QA (CSQA): is a question answering task for Hindi language in which an entity in a sentence is masked and the model must select the correct entity from four candidates, emphasizing commonsense and relational reasoning. This dataset is available in other Indian languages as well, but this implementation is only for Hindi.
 
 
-
 ### Citation
 
+```latex
 @inproceedings{kakwani-etal-2020-indicnlpsuite,
     title = "{I}ndic{NLPS}uite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for {I}ndian Languages",
     author = "Kakwani, Divyanshu  and
@@ -30,8 +30,7 @@ Cloze-style Multiple Choice QA (CSQA): is a question answering task for Hindi la
     doi = "10.18653/v1/2020.findings-emnlp.445",
     pages = "4948--4961",
 }
-
-
+```
 
 #### Tasks
 
